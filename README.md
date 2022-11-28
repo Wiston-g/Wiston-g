@@ -8,7 +8,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on OPEN SOURCE 
-- 📫 How to reach me (https://www.linkedin.com/in/jair-gonzalez-12680a191/)
+- 📫 How to reach me https://www.linkedin.com/in/jair-gonzalez-12680a191/
 ---
 ### My status:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Wiston-g)](https://git.io/streak-stats)
