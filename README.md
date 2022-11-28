@@ -1,7 +1,7 @@
 
-<div id="header" aling="center">
+<div id="header" align="center">
   <img src="https://giphy.com/embed/okZ8eqHMUPDdLEAIkf" width="480" height="270" />
-  <h1 aling="center">👋 Hi, I’m @Wiston-g</h1>
+  <h1 align="center">👋 Hi, I’m @Wiston-g</h1>
   <p> 
   </p>
 </div>
