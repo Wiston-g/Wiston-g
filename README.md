@@ -1,6 +1,6 @@
 
 <div id="header" aling="center">
-  <img src="https://giphy.com/embed/okZ8eqHMUPDdLEAIkf" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/stickergiant-code-sticker-giant-push-to-production-okZ8eqHMUPDdLEAIkf">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/okZ8eqHMUPDdLEAIkf" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
   <h1 aling="center">👋 Hi, I’m @Wiston-g</h1>
   <p> 
   </p>
