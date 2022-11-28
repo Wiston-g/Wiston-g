@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/okZ8eqHMUPDdLEAIkf/giphy.gif" width="480" height="270" />
+  <img src="https://giphy.com/embed/okZ8eqHMUPDdLEAIkf/" width="200" height="170" />
   <h1 align="center">👋 Hi, I’m @Wiston-g</h1>
 </div>
 
