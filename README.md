@@ -1,10 +1,12 @@
 
 <div id="header" aling="center">
-  <img src="https://giphy.com/embed/okZ8eqHMUPDdLEAIkf" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+  <img src="https://giphy.com/embed/okZ8eqHMUPDdLEAIkf" width="480" height="270">
   <h1 aling="center">👋 Hi, I’m @Wiston-g</h1>
   <p> 
   </p>
 </div>
+
+
 ---
 ### About me:
 - 👀 I’m interested in ...
